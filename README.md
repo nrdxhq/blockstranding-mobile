@@ -1,23 +1,23 @@
-# BlockStrand Mobile App
+# Block Stranding Mobile App
 
-A React + Ionic + Capacitor mobile application that provides seamless access to **BlockStrand**, an innovative online game built on **Solana blockchain** using **MagicBlock** technology.
+A React + Ionic + Capacitor mobile application that provides seamless access to **Block Stranding**, an online multiplayer RPG built on the **Solana blockchain** using the **MagicBlock** technology.
 
-## 🎮 About BlockStrand
+## 🎮 About Block Stranding
 
-BlockStrand is a cutting-edge online gaming experience that leverages:
+Block Stranding is a cutting-edge online gaming experience that leverages:
 
-- **🔗 Solana Blockchain**: Fast, low-cost transactions and decentralized gaming infrastructure
-- **⚡ MagicBlock**: Advanced blockchain gaming framework for seamless Web3 integration
-- **🌐 Cross-Platform**: Accessible via mobile app and web browser
-- **🎯 Real-time Gaming**: High-performance multiplayer gaming experience
+- **Solana Blockchain**: Fast, low-cost transactions and decentralized gaming infrastructure
+- **MagicBlock**: Advanced blockchain gaming framework for seamless Web3 integration
+- **Cross-Platform**: Accessible via mobile app and web browser
+- **Real-time Gaming**: High-performance multiplayer gaming experience
 
 ## 🚀 Features
 
-- **📱 Native Mobile Experience**: Built with Ionic and Capacitor for iOS and Android
-- **🖥️ Full-Screen Gaming**: Immersive gameplay without navigation bars or toolbars
-- **🔒 Secure Access**: Direct integration with BlockStrand's secure gaming platform
-- **⚡ Fast Loading**: Optimized for quick game startup and smooth performance
-- **🌍 Cross-Platform**: Single codebase for web, iOS, and Android
+- **Native Mobile Experience**: Built with Ionic and Capacitor for iOS & Android
+- **Full-Screen Gaming**: Immersive gameplay without navigation bars or toolbars
+- **Secure Access**: Direct integration with Block Stranding's secure gaming platform
+- **Fast Loading**: Optimized for quick game startup and smooth performance
+- **Cross-Platform**: Single codebase for web, iOS, and Android
 
 ## 🛠️ Technology Stack
 
@@ -40,7 +40,7 @@ BlockStrand is a cutting-edge online gaming experience that leverages:
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
+git clone nrdxhq/blockstranding-mobile.git
 cd my-solana-app-bs
 npm install
 ```
@@ -51,7 +51,7 @@ npm install
 npm start
 ```
 
-The app will open at `http://localhost:3000` and automatically redirect to BlockStrand.
+The app will open at `http://localhost:3000` and automatically redirect to Block Stranding.
 
 ### 3. Mobile Development
 
@@ -121,7 +121,7 @@ cd android
 ```
 my-solana-app-bs/
 ├── src/
-│   ├── App.tsx              # Main app component with BlockStrand integration
+│   ├── App.tsx              # Main app component with Block Stranding integration
 │   ├── App.css              # Full-screen styling
 │   └── index.tsx            # App entry point
 ├── android/                 # Android native project
@@ -129,7 +129,7 @@ my-solana-app-bs/
 ├── public/                  # Static assets
 ├── capacitor.config.ts      # Capacitor configuration
 ├── package.json             # Dependencies and scripts
-└── README.md               # This file
+└── README.md                # This file
 ```
 
 ## 🎯 App Behavior
@@ -139,20 +139,22 @@ my-solana-app-bs/
 - Full-window gaming experience
 
 ### Mobile App (iOS/Android)
-- Opens BlockStrand in optimized WebView
-- **No navigation toolbar**
-- **No address bar**
-- **Full-screen immersive gaming**
+- Opens Block Stranding in optimized WebView
+- No navigation toolbar
+- No address bar
+- Full-screen immersive gaming
+
+*The provided APK is not a final product, nor a fully native Android build, but rather a prototype intended to demonstrate the gameplay vibe, possibilities, and user experience of the game on a mobile device.*
 
 ## 🔐 Security Features
 
 - **CORS Handling**: Proper cross-origin resource sharing configuration
-- **Secure Connections**: HTTPS-only communication with BlockStrand
+- **Secure Connections**: HTTPS-only communication with Block Stranding
 - **WebView Security**: Optimized security settings for mobile gaming
 
 ## 🎮 Gaming Features
 
-- **Seamless Integration**: Direct access to BlockStrand gaming platform
+- **Seamless Integration**: Direct access to Block Stranding gaming platform
 - **Blockchain Gaming**: Full Solana and MagicBlock functionality
 - **Real-time Performance**: Optimized for responsive gaming experience
 - **Cross-Platform Compatibility**: Consistent experience across devices
@@ -168,7 +170,7 @@ my-solana-app-bs/
 
 ## 🌐 Links
 
-- **BlockStrand Game**: [https://blockstranding.com](https://blockstranding.com)
+- **Block Stranding Game**: [https://blockstranding.com](https://blockstranding.com)
 - **Solana**: [https://solana.com](https://solana.com)
 - **MagicBlock**: [https://magicblock.gg](https://magicblock.gg)
 - **Capacitor**: [https://capacitorjs.com](https://capacitorjs.com)
@@ -177,7 +179,3 @@ my-solana-app-bs/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-**Ready to play BlockStrand?** 🎮 Build the app and dive into the future of blockchain gaming!
