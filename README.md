@@ -1,6 +1,6 @@
 # Block Stranding Mobile App
 
-A React + Ionic + Capacitor mobile application that provides seamless access to **Block Stranding**, an online multiplayer RPG built on the **Solana blockchain** using the **MagicBlock** technology. Developed as part of the **Solana Mobile Hackathon**.
+A React + Capacitor mobile application that provides seamless access to **Block Stranding**, an online multiplayer RPG built on the **Solana blockchain** using the **MagicBlock** technology. Developed as part of the **Solana Mobile Hackathon**.
 
 ## 🎮 About Block Stranding
 
@@ -40,8 +40,8 @@ Block Stranding is a cutting-edge online gaming experience that leverages:
 ### 1. Clone and Install
 
 ```bash
-git clone nrdxhq/blockstranding-mobile.git
-cd my-solana-app-bs
+git git@github.com:nrdxhq/blockstranding-mobile.git
+cd blockstranding-mobile
 npm install
 ```
 
@@ -133,10 +133,6 @@ my-solana-app-bs/
 ```
 
 ## 🎯 App Behavior
-
-### Web Browser
-- Automatically redirects to `https://blockstranding.com`
-- Full-window gaming experience
 
 ### Mobile App (iOS/Android)
 - Opens Block Stranding in optimized WebView
