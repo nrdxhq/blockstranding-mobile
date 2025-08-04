@@ -13,11 +13,11 @@ Block Stranding is a cutting-edge online gaming experience that leverages:
 
 ## 🚀 Features
 
-- **Native Mobile Experience**: Built with Ionic and Capacitor for iOS & Android
+- **Native Mobile Experience**: Built with Ionic and Capacitor for Android
 - **Full-Screen Gaming**: Immersive gameplay without navigation bars or toolbars
 - **Secure Access**: Direct integration with Block Stranding's secure gaming platform
 - **Fast Loading**: Optimized for quick game startup and smooth performance
-- **Cross-Platform**: Single codebase for web, iOS, and Android
+- **Cross-Platform**: Single codebase for web and Android
 
 ## 🛠️ Technology Stack
 
@@ -33,7 +33,6 @@ Block Stranding is a cutting-edge online gaming experience that leverages:
 - **Node.js** (v16 or higher)
 - **npm** or **yarn**
 - **Android Studio** (for Android builds)
-- **Xcode** (for iOS builds - macOS only)
 
 ## 🏃‍♂️ Quick Start
 
@@ -64,9 +63,6 @@ npx cap sync
 
 # Open in Android Studio
 npx cap open android
-
-# Open in Xcode (macOS only)
-npx cap open ios
 ```
 
 ## 📱 Building Android APK
@@ -111,11 +107,6 @@ cd android
 - **Target SDK**: API Level 35
 - **Required Permissions**: Internet access for game connectivity
 
-### iOS Requirements
-
-- **Deployment Target**: iOS 13.0+
-- **Xcode**: Version 12.0 or higher
-
 ## 📁 Project Structure
 
 ```
@@ -125,7 +116,6 @@ my-solana-app-bs/
 │   ├── App.css              # Full-screen styling
 │   └── index.tsx            # App entry point
 ├── android/                 # Android native project
-├── ios/                     # iOS native project
 ├── public/                  # Static assets
 ├── capacitor.config.ts      # Capacitor configuration
 ├── package.json             # Dependencies and scripts
@@ -134,7 +124,7 @@ my-solana-app-bs/
 
 ## 🎯 App Behavior
 
-### Mobile App (iOS/Android)
+### Mobile App (Android)
 - Opens Block Stranding in optimized WebView
 - No navigation toolbar
 - No address bar
@@ -162,7 +152,6 @@ my-solana-app-bs/
 - `npm test` - Run tests
 - `npx cap sync` - Sync web assets with mobile platforms
 - `npx cap open android` - Open Android project
-- `npx cap open ios` - Open iOS project
 
 ## 🌐 Links
 
