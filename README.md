@@ -1,6 +1,6 @@
 # Block Stranding Mobile App
 
-A React + Ionic + Capacitor mobile application that provides seamless access to **Block Stranding**, an online multiplayer RPG built on the **Solana blockchain** using the **MagicBlock** technology.
+A React + Ionic + Capacitor mobile application that provides seamless access to **Block Stranding**, an online multiplayer RPG built on the **Solana blockchain** using the **MagicBlock** technology. Developed as part of the **Solana Mobile Hackathon**.
 
 ## 🎮 About Block Stranding
 
